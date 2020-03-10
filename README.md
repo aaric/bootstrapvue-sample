@@ -26,5 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## BootstrapVue setup
 
 ```bash
-npm install bootstrap-vue bootstrap axios
+npm install--save --save-exact bootstrap-vue bootstrap axios
 ```
