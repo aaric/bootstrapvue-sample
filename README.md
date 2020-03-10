@@ -40,7 +40,7 @@ npm config set registry https://registry.npm.taobao.org
 # get project version
 node -p "require('./package.json').version"
 
-# docker robot login
+# harbor robot login
 echo '<token>' | docker login s1:5000 -u 'robot$<name>' --password-stdin
 ```
 
